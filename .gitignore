@@ -1,0 +1,7 @@
+*.dmg
+*.zip
+*.apk
+*.aab
+build/
+.gradle/
+.idea/
