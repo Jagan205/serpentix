@@ -5,3 +5,10 @@
 build/
 .gradle/
 .idea/
+*.dmg
+*.zip
+*.apk
+*.aab
+build/
+.gradle/
+.idea/
